@@ -1,0 +1,3 @@
+# app-ads.txt for AI Space Tails
+# AdMob publisher line will be added after AdMob registration:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
